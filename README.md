@@ -1,1 +1,1 @@
-# ML-ex6
+Module of Andrew NG's ML course.
